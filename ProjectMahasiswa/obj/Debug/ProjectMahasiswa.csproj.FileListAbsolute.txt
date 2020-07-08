@@ -1,0 +1,5 @@
+D:\Kampus\pemrograman\Responsi UAS\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csproj.CoreCompileInputs.cache
+D:\Kampus\pemrograman\Responsi UAS\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.exe
+D:\Kampus\pemrograman\Responsi UAS\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.pdb
+D:\Kampus\pemrograman\Responsi UAS\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.exe
+D:\Kampus\pemrograman\Responsi UAS\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.pdb
